@@ -18,7 +18,7 @@ public class Main {
         test2.push(1);
         test2.push(2);
         test2.push(3);
-
+        
         test2.print();
 
 
